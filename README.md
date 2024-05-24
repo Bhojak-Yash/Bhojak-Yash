@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhojak-Yash
+👋 Hi, I’m Yash Bhojak
 
 Greetings! I'm Yash Bhojak, a Web Developer 🧑‍💻, also learning the MERN (MongoDB, Express.js, React, Node.js) stack. I'm currently in my 3rd year of B.Tech in Computer Science, I've spent a solid two years delving deep into DSA and Problem solving skills. My passion for learning and hands-on experience in hackathons and competitions have helped me to sharp my skills and knowledge.
 
